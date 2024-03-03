@@ -1,0 +1,1 @@
+A rust book followup project of a simple guessing game. 
